@@ -1,6 +1,6 @@
 ## About Me
 
-![avatar](/pic.jpg){:height="50%" width="50%"}
+![avatar](/pic.jpg){:height="100" width="100"}
 
  <img src="/pic.jpg" width = "50%" height = "50%" />
 
