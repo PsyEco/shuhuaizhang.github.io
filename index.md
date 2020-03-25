@@ -1,4 +1,5 @@
-## About Me
+
+### About Me
 
  <img src="/pic.jpg" width = "50%" height = "50%" />
 
