@@ -1,7 +1,7 @@
 
 ### About Me
 
-![]("/pic.jpg"){:width = "70%" height = "70%"}
+![](/pic.jpg){:width = "70%" height = "70%"}
 
 
 I am a 0 year Ph.D student at PBC School of Finance, Tsinghua University. I obtained my Bachelor's Degree in Economics / Psychology at Tsinghua University in 2018. My research interests include Behavioral Economics and Behavioral Finance. 
