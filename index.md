@@ -1,9 +1,8 @@
-### About Me
+## Welcome to GitHub Pages
 
-![](/pic.jpg){:width = "60%" height = "60%"}
+You can use the [editor on GitHub](https://github.com/PsyEco/shuhuaizhang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-
-I am a 0 year Ph.D student at PBC School of Finance, Tsinghua University. I obtained my Bachelor's Degree in Economics / Psychology at Tsinghua University in 2018. My research interests include Behavioral Economics and Behavioral Finance. 
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
