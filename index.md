@@ -1,5 +1,4 @@
-
-### Welcome
+### About Me
 
 ![](/pic.jpg){:width = "60%" height = "60%"}
 
