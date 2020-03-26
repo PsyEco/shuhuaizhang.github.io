@@ -24,6 +24,12 @@ plainwhite:
   tagline: Ph.D. Student
   date_format: "%b %-d, %Y"
   analytics_id: UA-127004425-1
+  sitemap: true
+  navigation:
+    - title: My Work
+      url: "/my-work"
+    - title: Resume
+      url: "/resume"
 
   # generate social links in footer
   social_links:
